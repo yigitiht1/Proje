@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+h1 {
+    color:rgb(253, 184, 255);
+    text-align: center;
+}
+h3 {
+    color:rgb(253, 184, 255);
+    text-align: center; 
+    font-weight:bold;
+}
+
+p {
+    color: #fff;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+button {
+    color: rgb(238, 174, 157);
+    
+    width: 250px;
+    border: none;
+    padding: 5px 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+}
+
+button:hover {
+    background-color:rgb(96, 96, 96);
+}
+
+button a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button a:hover {
+    text-decoration: underline;
+}

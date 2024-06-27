@@ -1,0 +1,18 @@
+.container {
+  display: flex; 
+  height: 100vh;
+  padding: 100px; 
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.menu-container {
+  width: 300px; 
+  height: 70%; 
+  background-color: transparent; 
+  border-right: 0px solid #a92f2f; 
+}
+
+.menu-container .ant-menu {
+  height: 100%; 
+}

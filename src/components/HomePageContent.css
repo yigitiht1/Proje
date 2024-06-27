@@ -1,0 +1,32 @@
+.contaner{
+    display: flex;
+    justify-content:flex-start;
+   
+}
+
+.card {
+    width: 100%; 
+    max-width: 100%; 
+    padding: 50px; 
+    border: none; 
+    text-align: center; 
+    margin: 0 auto;
+    font-style:inherit;
+    color:  rgb(253, 184, 255);
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 5%;
+    text-decoration: solid;
+}
+
+.card-title {
+    font-size: 20px; 
+    margin-bottom: 10px; 
+}
+
+.card-content {
+    font-size: 16px; 
+    color: rgb(114, 28, 53);
+}
+
+
+

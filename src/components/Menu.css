@@ -1,0 +1,188 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.ant-layout-header {
+  background-color: #fff;
+  padding: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+.ant-menu {
+  background: #001529;
+  color: #fff;
+}
+
+.ant-menu-item {
+  padding: 0 24px;
+  height: 48px;
+  line-height: 48px;
+}
+
+.ant-menu-item-selected {
+  background-color: #1890ff;
+}
+
+.ant-menu-submenu-title {
+  padding-left: 24px !important;
+}
+
+.ant-menu-submenu {
+  background: #001529;
+}
+
+.body {
+  margin-left: 256px; 
+  padding: 20px;
+}
+
+.site-layout-background {
+  background: #f0f2f5;
+  padding: 0;
+}
+
+
+.ant-breadcrumb {
+  margin: 16px 0;
+}
+
+.ant-breadcrumb-separator {
+  color: #1890ff;
+}
+
+
+.content-card {
+  background-color: #fff;
+  padding: 24px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.ant-layout-footer {
+  text-align: center;
+  background-color: #001529;
+  color: #fff;
+  padding: 12px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
+.content-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1890ff;
+}
+
+
+.footer-link {
+  color: #fff;
+}
+
+.footer-link:hover {
+  color: #40a9ff;
+}
+
+z
+a {
+  color: #1890ff;
+}
+
+a:hover {
+  color: #40a9ff;
+}
+
+
+.main-content {
+  padding: 24px;
+  background-color: #fff;
+  margin: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.ant-menu-dark {
+  background: #001529; 
+}
+
+.ant-menu-light {
+  background: #f0f2f5;
+}
+
+.ant-menu-item,
+.ant-menu-submenu-title {
+  color: #ffffff; 
+}
+
+.ant-menu-item-selected,
+.ant-menu-item-active,
+.ant-menu-submenu-title-selected,
+.ant-menu-submenu-title-active {
+  background-color: #1890ff;
+}
+
+.ant-menu-item:hover,
+.ant-menu-submenu-title:hover {
+  background-color: #40a9ff; 
+}
+
+
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title {
+  color: #ffffff; 
+}
+
+.ant-menu-submenu-popup.ant-menu-light .ant-menu-item,
+.ant-menu-submenu-popup.ant-menu-light .ant-menu-submenu-title {
+  color: #000000; 
+}
+
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-active,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title-active {
+  background-color: #1890ff; 
+}
+
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item:hover,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title:hover {
+  background-color: #40a9ff; 
+}
+
+
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title {
+  color: #ffffff; 
+}
+
+.ant-menu-submenu-popup.ant-menu-light .ant-menu-item,
+.ant-menu-submenu-popup.ant-menu-light .ant-menu-submenu-title {
+  color: #000000; 
+}
+
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-active,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title-active {
+  background-color: #1890ff; 
+}
+
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item:hover,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-submenu-title:hover {
+  background-color: #40a9ff;
+}
+

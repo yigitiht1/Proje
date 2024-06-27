@@ -1,0 +1,38 @@
+.home5{
+    font-size:medium;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
+.home3{
+    font-size:medium;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 90px;
+    padding: 0px 10px;
+    font-size: 20px;
+    color:white;
+    font-weight: 700;
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.home {
+    padding: 80px 10px 30px 20px; 
+    font-family: Arial, sans-serif;
+    line-height: 1.0;    
+}
+.home2 {
+    font-size: 24px; 
+ 
+}
+
+.home p {
+    margin-bottom: 7x; 
+}
